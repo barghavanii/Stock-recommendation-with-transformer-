@@ -9,6 +9,10 @@ This repository contains implementations of two advanced models for stock price 
 
 Both models serve distinct yet complementary purposes, offering robust tools for financial analysis and automated trading strategies.
 
+## Dataset
+
+The dataset used for training the models is available at: [XNAS ITCH Dataset](https://databento.com/datasets/XNAS.ITCH)
+
 ## Model Checkpoints
 
 The model checkpoints are available on Hugging Face: [Stock Recommendation with Transformer](https://huggingface.co/barghavani/Stock_recommendation_with_transformer/tree/main)
