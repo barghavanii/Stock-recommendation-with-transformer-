@@ -1,0 +1,8 @@
+pandas
+numpy
+TA-Lib
+tensorflow
+matplotlib
+scikit-learn
+stable-baselines3
+stable-baselines3[extra]>=2.0.0a4
