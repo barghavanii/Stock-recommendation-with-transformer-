@@ -15,7 +15,7 @@ The dataset used for training the models is available at: [XNAS ITCH Dataset](ht
 
 ## Model Checkpoints
 
-The model checkpoints are available on Hugging Face: [Stock Recommendation with Transformer](https://huggingface.co/barghavani/Stock_recommendation_with_transformer/tree/main)
+The model checkpoints are available on Hugging Face: [Stock Recommendation with Transformer](https://huggingface.co/barghavani/Stock_recommendation_with_transformer/resolve/main/transformer_model%20(1).keras)
 
 ## Colab Notebook
 
