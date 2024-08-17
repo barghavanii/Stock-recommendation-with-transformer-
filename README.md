@@ -21,4 +21,4 @@ The model checkpoints are available on Hugging Face: [Stock Recommendation with 
 
 You can run the models directly in Google Colab by clicking the button below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12xX9Kp2l64IKj6qCHh51N1BSIWkuXtgU?usp=sharing#scrollTo=N7_NJlBBAXtd)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12LZFW_D2CzLYzUC7qXm3QtgeL_gFkvBy#scrollTo=u_QE86AxBFfU)
